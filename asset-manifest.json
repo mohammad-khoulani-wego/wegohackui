@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/wegohackui/static/css/main.7b703c1c.css",
-    "main.js": "/wegohackui/static/js/main.552c8cfb.js",
+    "main.js": "/wegohackui/static/js/main.c14c1a96.js",
     "static/js/453.e62c4640.chunk.js": "/wegohackui/static/js/453.e62c4640.chunk.js",
     "index.html": "/wegohackui/index.html",
     "main.7b703c1c.css.map": "/wegohackui/static/css/main.7b703c1c.css.map",
-    "main.552c8cfb.js.map": "/wegohackui/static/js/main.552c8cfb.js.map",
+    "main.c14c1a96.js.map": "/wegohackui/static/js/main.c14c1a96.js.map",
     "453.e62c4640.chunk.js.map": "/wegohackui/static/js/453.e62c4640.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7b703c1c.css",
-    "static/js/main.552c8cfb.js"
+    "static/js/main.c14c1a96.js"
   ]
 }
